@@ -35,5 +35,7 @@ public class Array {
         };
 
         System.out.println("The multi dimensional Array " + matrix[0][2]);
+
+
     }
 }

@@ -24,5 +24,10 @@ public class Loop {
         for (int i = 1; i <= count3; i++) {
             System.out.println("i's value is " + i);
         }
+        String[] names = { "Adam", "Chris", "Joe", "Daniel", "Steven" };
+        // for each
+        for (String name : names) {
+            System.out.println(name);
+        }
     }
 }

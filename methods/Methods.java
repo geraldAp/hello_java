@@ -1,6 +1,6 @@
 
 public class Methods {
-
+// in the main method we call static methods 
     // methods
     // public method
    public  static void greet() {
