@@ -16,7 +16,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");
 
-        Student s = new Student(20, "Nana Kwame", "MIT");
+        Student2 s = new Student2(20, "Nana Kwame", "MIT");
 
         s.showStudent();
         s.showAge();
