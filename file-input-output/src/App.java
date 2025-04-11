@@ -7,7 +7,7 @@ import java.io.IOException;
 public class App {
     public static void main(String[] args) throws IOException {
 
-        // Buffer writer
+        // Buffer writer  
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter("/Users/geraldamankwah/Desktop/myfile2.txt"));
 
         bufferedWriter.write("This is the first line I am writing");
